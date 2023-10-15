@@ -8,21 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6e2d183d9c261d6e",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled 1.canvas",
-                "viewState": {
-                  "x": 97.53783822418583,
-                  "y": -740.342805612699,
-                  "zoom": -0.6447119723799963
-                }
-              }
-            }
-          },
-          {
             "id": "27f15f49656bff6f",
             "type": "leaf",
             "state": {
@@ -31,6 +16,21 @@
                 "file": "Obsidian个人使用指南.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "bdec1452defbdf99",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 726.1138779642307,
+                  "y": 120.34578068338737,
+                  "zoom": -0.25424826530774236
+                }
               }
             }
           }
@@ -81,13 +81,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7839e2f3198846be",
@@ -103,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian个人使用指南.md",
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian个人使用指南.md",
+                "file": "Untitled.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian个人使用指南.md"
+                "file": "Untitled.canvas"
               }
             }
           }
@@ -152,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,16 +165,24 @@
       "publish:发布更改": false
     }
   },
-  "active": "27f15f49656bff6f",
+  "active": "d542c2ce9c449156",
   "lastOpenFiles": [
-    "Untitled 1.canvas",
-    "Obsidian个人使用指南.md",
     "test.md",
+    "progit.pdf",
+    "编程语言/C++/Sequential container(顺序容器).md",
+    "编程语言/C++/associative container(关联容器).md",
+    "programm tools/git/git note.md",
+    "programm tools/git/git.pdf.md",
+    "programm tools/git",
+    "Obsidian个人使用指南.md",
+    "编程语言/C++",
+    "programm tools",
+    "编程语言",
     "2023-10-10.md",
-    "associative container(关联容器).md",
-    "Sequential container(顺序容器).md",
-    "Untitled 2.canvas",
     "Untitled.canvas",
+    "未命名.md",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
     "Untitled"
   ]
 }

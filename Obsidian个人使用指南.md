@@ -139,5 +139,32 @@ sequenceDiagram
     John-->>-Alice: 最近不错！
 
 
+#### -标签
+	使用#加上字符打上tag 如#标签  
+#标签    
 
+
+# 进阶
+
+#### -关系图谱
+	显示的为笔记之间的内部链接 被连接数越多 节点越大
+
+
+#### -白板
+	相关请看
+[白板 - Obsidian 中文帮助 - Obsidian Publish](https://publish.obsidian.md/help-zh/%E6%8F%92%E4%BB%B6/%E7%99%BD%E6%9D%BF)
+
+#### -页面预览
+当你鼠标悬停在**内部链接**上可以通过一个小浮窗预览页面（只在预览模式有效）
+
+#### -支持格式
+目前为止，Obsidian 支持以下格式的文件：
+
+1. Markdown 文件：`md`;
+2. 图像文件：`png`, `jpg`, `jpeg`, `gif`, `bmp`, `svg`;
+3. 音频文件：`mp3`, `webm`, `wav`, `m4a`, `ogg`, `3gp`, `flac`;
+4. 视频文件：`mp4`, `webm`, `ogv`;
+5. PDF 文件：`pdf`.
+
+以上类型文件都可以内嵌到笔记页面中
 
