@@ -1,3 +1,6 @@
 {
-  "rightToLeft": false
+  "rightToLeft": false,
+  "vimMode": true,
+  "useTab": true,
+  "smartIndentList": true
 }
