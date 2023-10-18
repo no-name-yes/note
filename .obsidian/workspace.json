@@ -13,29 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian个人使用指南.md",
+                "file": "编程语言/C++/Sequential container(顺序容器).md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "bdec1452defbdf99",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 726.1138779642307,
-                  "y": 120.34578068338737,
-                  "zoom": -0.25424826530774236
-                }
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -101,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "编程语言/C++/Sequential container(顺序容器).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "编程语言/C++/Sequential container(顺序容器).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "编程语言/C++/Sequential container(顺序容器).md"
               }
             }
           }
@@ -150,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -167,14 +150,14 @@
   },
   "active": "d542c2ce9c449156",
   "lastOpenFiles": [
-    "test.md",
-    "progit.pdf",
+    "Obsidian个人使用指南.md",
     "编程语言/C++/Sequential container(顺序容器).md",
     "编程语言/C++/associative container(关联容器).md",
-    "programm tools/git/git note.md",
     "programm tools/git/git.pdf.md",
+    "programm tools/git/git note.md",
+    "test.md",
+    "progit.pdf",
     "programm tools/git",
-    "Obsidian个人使用指南.md",
     "编程语言/C++",
     "programm tools",
     "编程语言",
