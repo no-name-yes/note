@@ -1,0 +1,1 @@
+ [snu make文档](https://www.gnu.org/software/make/manual/make.html)

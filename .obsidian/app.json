@@ -2,5 +2,7 @@
   "rightToLeft": false,
   "vimMode": true,
   "useTab": true,
-  "smartIndentList": true
+  "smartIndentList": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./"
 }
