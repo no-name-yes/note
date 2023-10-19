@@ -57,7 +57,28 @@ string               类似于vector 专用于保存字符 随机访问快 尾�
 	c.empty();         c是否储存了元素，空返回true, 非空返回false
 	
 **添加删除**元素会改变容器大小对(array不适用)
+	forward_list有专有版本的insert和emplace且不支持push_back和emplace_back
+	vector和string不支持push_front和emplace_front
+
+	c.push_back(t);           |
+	c.emplace_back(args)；    |在c的尾部创建一个值为t或由args创建的元素
 	
+	c.push_front(t);          |
+	c.emplace_front(args);    |在c的头部创建一个值为t或由args创建的元素
+
+	c.insert(p,t);            |
+	c.emplace(p,args);        |在迭代器p指向的元素之前床架你个值为t或者由args创建的元素，                                    |返回新元素的迭代器
+	c.insert(p,n,t);          在迭代器p指向的元素之前插入n个值为t的元素.返回指向新添加的第                                    一个元素的迭代器,若n=0返回P
+	c.insert(p,b,e);          将迭代器b和e指定的范围内的元素插入到迭代器P指向的元素之前,b和e                                  不能指向c中的元素,返回新添加的第一个元素的迭代器,若范围为空返回p
+	c.insert(p,il);           il是一个花括号包围的元素值列表.将这些给定值插入到迭代器P指向的元素                              之前.返回指向新添加的第一个元素的迭代器,若列表为空返回p
+
+
+	forward_list有专有的erase且不支持pop_back,vector和string不支持pop_front
+	c.pop_back();      删除c中尾元素
+	c.pop_front();     删除c中首元素
+	c.erase(p);        删除迭代器p所指元素,返回一个指向被删元素之后元素的迭代器,若p指向尾元素                           返回c.end()迭代器
+	c.erase(b,e);      删除迭代器b和e所指定范围内的元素,返回一个指向最后一个被删元素之后的                              元素迭代器,若e本身为尾后迭代器(c.end())函数也返回c.end()
+	c.clear();         删除c中所有元素
 
 	不同容器下这些操作的接口不同:
 	c.insert(args);       将args中的元素拷贝进c
@@ -68,7 +89,12 @@ string               类似于vector 专用于保存字符 随机访问快 尾�
 ##### 关系运算符:
 	==  !=              判断容器是否相等
 	<  <=  > >=    如vector<char>以容器中不相等的第一个元素以字母顺序判断 (无序关联容器不支持)
+**容器的关系运算符依照元素的关系运算符完成**
 
+##### tips:
+	1.使用对象初始化容器或者将一个对象插入时使用的是该对象的一个拷贝值.
+	2.emplace函数直接在容器中构造元素.传递给emplace函数的参数必须于元素类型的构造函数想匹配即如果有c.emplace_back(int a, string b, bool c)的操作,emplace将这三个参数传递给c的元素类型构造函数直接构造(比如c是一个vector<struct_custom>，struct_custom这个结构体或类的构造函数包括这三个参数).
+	3.程序员有责任保证所操作的元素是存在的
 
  
 

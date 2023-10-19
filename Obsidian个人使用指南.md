@@ -139,7 +139,7 @@ sequenceDiagram
     John-->>-Alice: 最近不错！
 
 
-#### -标签
+#### 标签
 	使用#加上字符打上tag 如#标签  
 #标签    
 
