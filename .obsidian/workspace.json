@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal tasks.md",
+                "file": "concept define explain conference/动态链接库.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal tasks.md",
+                "file": "concept define explain conference/动态链接库.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal tasks.md",
+                "file": "concept define explain conference/动态链接库.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal tasks.md"
+                "file": "concept define explain conference/动态链接库.md"
               }
             }
           }
@@ -159,9 +159,14 @@
       "publish:发布更改": false
     }
   },
-  "active": "6ceaece48543f829",
+  "active": "420aa793233a076f",
   "lastOpenFiles": [
+    "编程语言/生成可执行文件的过程.md",
+    "concept define explain conference/动态链接库.md",
     "Obsidian个人使用指南.md",
+    "编程语言/C++/Sequential container(顺序容器).md",
+    "编程语言/C++/associative container(关联容器).md",
+    "concept define explain conference",
     "Personal tasks.md",
     "programm tools/git/progit.pdf",
     "Lab/computer network/css144/Pasted image 20231017153521.png",
@@ -175,8 +180,6 @@
     "programm tools/make/make.html",
     "Lab/computer network/css144/checkpoint 0 warmup.md",
     "programm tools/make",
-    "编程语言/C++/Sequential container(顺序容器).md",
-    "编程语言/C++/associative container(关联容器).md",
     "Lab/computer network/css144/minnow/writeups/check0.md",
     "Lab/computer network/css144/minnow/writeups",
     "Lab/computer network/css144/minnow/util/tcp_sender_message.hh",
@@ -184,7 +187,6 @@
     "Lab/computer network/css144/minnow/util/socket.hh",
     "Lab/computer network/css144/minnow/util/tcp_config.hh",
     "Lab/computer network/css144/minnow/util/socket.cc",
-    "Lab/computer network/css144/minnow/util/random.hh",
     "Lab/computer network/css144/minnow/README.md",
     "Pasted image 20231017153456.png",
     "Lab/computer network/未命名.md"
