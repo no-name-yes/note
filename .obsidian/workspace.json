@@ -160,8 +160,11 @@
       "publish:发布更改": false
     }
   },
-  "active": "420aa793233a076f",
+  "active": "6ceaece48543f829",
   "lastOpenFiles": [
+    "编程语言/生成可执行文件的过程.md",
+    "concept define explain conference/动态链接库.md",
+    "concept define explain conference",
     "Obsidian个人使用指南.md",
     "编程语言/C++/Sequential container(顺序容器).md",
     "编程语言/C++/associative container(关联容器).md",
@@ -186,7 +189,6 @@
     "Lab/computer network/css144/minnow/util/socket.hh",
     "Lab/computer network/css144/minnow/util/tcp_config.hh",
     "Lab/computer network/css144/minnow/util/socket.cc",
-    "Lab/computer network/css144/minnow/util/random.hh",
     "Lab/computer network/css144/minnow/README.md",
     "Pasted image 20231017153456.png",
     "Lab/computer network/未命名.md"
