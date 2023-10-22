@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "7d6026e7e446702b",
+        "id": "0aa34534c36fbce7",
         "type": "tabs",
         "children": [
           {
-            "id": "c583ffbda70dfd9e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "programm tools/git/progit.pdf"
-              }
-            }
-          },
-          {
-            "id": "420aa793233a076f",
+            "id": "42bd9c82f6ac4a91",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程语言/C++/Sequential container(顺序容器).md",
+                "file": "programm/生成可执行文件的过程.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programm tools/git/progit.pdf",
+                "file": "programm/生成可执行文件的过程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programm tools/git/progit.pdf",
+                "file": "programm/生成可执行文件的过程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programm tools/git/progit.pdf"
+                "file": "programm/生成可执行文件的过程.md"
               }
             }
           }
@@ -145,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,36 +148,41 @@
       "publish:发布更改": false
     }
   },
-  "active": "6ceaece48543f829",
+  "active": "42bd9c82f6ac4a91",
   "lastOpenFiles": [
-    "编程语言/生成可执行文件的过程.md",
-    "concept define explain conference/动态链接库.md",
-    "concept define explain conference",
-    "Obsidian个人使用指南.md",
-    "编程语言/C++/Sequential container(顺序容器).md",
-    "编程语言/C++/associative container(关联容器).md",
-    "programm tools/git/progit.pdf",
+    "tips.md",
     "test.md",
-    "Personal tasks.md",
-    "Lab/computer network/css144/Pasted image 20231017153521.png",
-    "Lab/computer network/css144/Pasted image 20231017153359.png",
-    "programm tools/git/git.pdf.md",
-    "progit.pdf.md",
-    "programm tools/git/git note.md",
     "Untitled.canvas",
-    "programm tools/make/make note.md",
+    "resource website/未命名.md",
+    "resource website/手游资源仓库网站.md",
+    "Obsidian个人使用指南.md",
+    "Personal tasks.md",
+    "resource website",
+    "programm/operator system/linux/How to delete some datas by scuerity way.md",
+    "programm/C++/Sequential container(顺序容器).md",
+    "others",
+    "programm/operator system/linux",
+    "programm tools/git/未命名.md",
+    "programm/operator system",
+    "programm/programm tools/git/progit.pdf",
+    "programm/生成可执行文件的过程.md",
+    "programm/concept define explain conference/动态链接库.md",
+    "programm/concept define explain conference",
+    "programm/C++/associative container(关联容器).md",
+    "programm/Lab/computer network/css144/Pasted image 20231017153521.png",
+    "programm/Lab/computer network/css144/Pasted image 20231017153359.png",
+    "programm/programm tools/git/git.pdf.md",
+    "progit.pdf.md",
+    "programm/programm tools/git/git note.md",
+    "programm/programm tools/make/make note.md",
     "programm tools/make/make网页本地.md",
-    "programm tools/make/make.html",
-    "Lab/computer network/css144/checkpoint 0 warmup.md",
-    "programm tools/make",
-    "Lab/computer network/css144/minnow/writeups/check0.md",
-    "Lab/computer network/css144/minnow/writeups",
-    "Lab/computer network/css144/minnow/util/tcp_sender_message.hh",
-    "Lab/computer network/css144/minnow/util/tcp_receiver_message.hh",
-    "Lab/computer network/css144/minnow/util/socket.hh",
-    "Lab/computer network/css144/minnow/util/tcp_config.hh",
-    "Lab/computer network/css144/minnow/util/socket.cc",
-    "Lab/computer network/css144/minnow/README.md",
+    "programm/programm tools/make/make.html",
+    "programm/Lab/computer network/css144/checkpoint 0 warmup.md",
+    "programm/programm tools/make",
+    "programm/Lab/computer network/css144/minnow/writeups/check0.md",
+    "programm/Lab/computer network/css144/minnow/writeups",
+    "programm/Lab/computer network/css144/minnow/util/tcp_sender_message.hh",
+    "programm/Lab/computer network/css144/minnow/README.md",
     "Pasted image 20231017153456.png",
     "Lab/computer network/未命名.md"
   ]
