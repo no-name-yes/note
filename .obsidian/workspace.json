@@ -8,53 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c583ffbda70dfd9e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "programm tools/git/progit.pdf"
-              }
-            }
-          },
-          {
             "id": "420aa793233a076f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programm tools/make/make note.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9ce706b682664ade",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "编程语言/C++/Sequential container(顺序容器).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a5ea2ccd16d03fec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "编程语言/C++/Sequential container(顺序容器).md",
+                "file": "Personal tasks.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -120,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编程语言/C++/Sequential container(顺序容器).md",
+                "file": "Personal tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "编程语言/C++/Sequential container(顺序容器).md",
+                "file": "Personal tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "编程语言/C++/Sequential container(顺序容器).md"
+                "file": "Personal tasks.md"
               }
             }
           }
@@ -184,10 +149,33 @@
       "publish:发布更改": false
     }
   },
-  "active": "a5ea2ccd16d03fec",
+  "active": "420aa793233a076f",
   "lastOpenFiles": [
-    "编程语言/C++/associative container(关联容器).md",
+    "tips.md",
+    "resource website/手游资源仓库网站.md",
+    "resource website",
+    "programm/生成可执行文件的过程.md",
+    "programm/programm tools/make/make.html",
+    "programm/programm tools/make/make note.md",
+    "programm/programm tools/make",
+    "programm/programm tools/git/progit.pdf",
     "编程语言/C++/Sequential container(顺序容器).md",
+    "programm/Lab/computer network/css144/Pasted image 20231017153359.png",
+    "programm/Lab/computer network/css144/Pasted image 20231017153521.png",
+    "programm/Lab/computer network/css144/checkpoint 0 warmup.md",
+    "programm/Lab/computer network/css144/minnow",
+    "programm/programm tools/git/git.pdf.md",
+    "programm/programm tools/git/git note.md",
+    "programm/operator system/linux/How to delete some datas by scuerity way.md",
+    "programm/Lab/computer network/css144",
+    "programm/programm tools/git",
+    "programm/operator system/linux",
+    "programm/Lab/computer network",
+    "programm/concept define explain conference/动态链接库.md",
+    "programm/C++/Sequential container(顺序容器).md",
+    "programm/C++/associative container(关联容器).md",
+    "programm/programm tools",
+    "编程语言/C++/associative container(关联容器).md",
     "编程语言/生成可执行文件的过程.md",
     "Personal tasks.md",
     "programm tools/make/make note.md",
@@ -196,28 +184,14 @@
     "concept define explain conference/动态链接库.md",
     "raw words()/未命名.md",
     "编程语言/未命名.md",
-    "raw words()",
     "编程语言/未命名 1.md",
     "Obsidian个人使用指南.md",
-    "blog",
-    "programm tools/git/progit.pdf",
-    "concept define explain conference",
     "Lab/computer network/css144/Pasted image 20231017153521.png",
     "Lab/computer network/css144/Pasted image 20231017153359.png",
     "programm tools/git/git.pdf.md",
     "progit.pdf.md",
     "programm tools/git/git note.md",
     "programm tools/make/make网页本地.md",
-    "programm tools/make/make.html",
-    "Lab/computer network/css144/checkpoint 0 warmup.md",
-    "programm tools/make",
-    "Lab/computer network/css144/minnow/writeups/check0.md",
-    "Lab/computer network/css144/minnow/writeups",
-    "Lab/computer network/css144/minnow/util/tcp_sender_message.hh",
-    "Lab/computer network/css144/minnow/util/tcp_receiver_message.hh",
-    "Lab/computer network/css144/minnow/util/socket.hh",
-    "Lab/computer network/css144/minnow/README.md",
-    "Pasted image 20231017153456.png",
-    "Lab/computer network/未命名.md"
+    "Pasted image 20231017153456.png"
   ]
 }
