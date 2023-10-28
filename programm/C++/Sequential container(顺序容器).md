@@ -121,7 +121,7 @@ string               类似于vector 专用于保存字符 随机访问快 尾�
 	string s(s2,pos2,len2);   s是string s2从下标pos2开始的len2个字符的拷贝.若pos>s2.size()                                 构造函数未定义,不管len2值是多少，构造函数之多拷贝s2.size()-pos2                               个字符
 	s.substr(pos,n)           返回一个string.包含s中从pos开始的n个字符的拷贝.pos的默认值为0.                                 n的默认值为s.size()-pos,即拷贝从pos开始的所有字符
 	内容更改：
-	s.insert(pos,args)        在pos之前插入args指定的字符.pos是一个下标或一个迭代器.接受下标的                               版本返回一个指向s的引用,接受迭代器的版本返回指向第一个插入字符的                                迭代器
+	s.insert(pos,args)        在pos之前插入args指定的字符.pos是一个下标或一个迭代器.接受下标的版本返回一个指向s的引用,接受迭代器的版本返回指向第一个插入字符的                                迭代器
 	s.erase(pos,len)          删除从位置pos开始的len个字符.如果len被省略则删除从pos开始直至                                  s末尾的所有字符返回一个指向s的引用
 	s.assign(args)            将s中的字符替换为args指定的字符.返回一个指向s的引用
 	s.append(args)            将args追加到args,返回一个指向s的引用
@@ -134,6 +134,11 @@ string               类似于vector 专用于保存字符 随机访问快 尾�
 		n,c              n个字符c
 		b,e              迭代器b和e指定的范围内的字符
 		初始化列表        花括号包围的,逗号隔开的列表
+
+	搜索:
+	s.find(args)        查找s中args第一次出现的位置
+	s.rfind(args)       查找s中args最后一次出现的位置
+	s.
 ##### 关系运算符:
 	==  !=              判断容器是否相等
 	<  <=  > >=    如vector<char>以容器中不相等的第一个元素以字母顺序判断 (无序关联容器不支持)
