@@ -136,9 +136,48 @@ string               类似于vector 专用于保存字符 随机访问快 尾�
 		初始化列表        花括号包围的,逗号隔开的列表
 
 	搜索:
+<<<<<<< HEAD
 	s.find(args)        查找s中args第一次出现的位置
 	s.rfind(args)       查找s中args最后一次出现的位置
 	s.
+=======
+	s.find(args)                查找s中args第一次出现的位置
+	s.rfind(args)               查找s中args最后一次出现的位置
+	s.find_first_of(args)       在s中查找args中任何一个字符第一次出现的位置
+	s.find_last_of(args)        在s中查找args中如何一个字符最后一次出现的位置
+	s.find_first_not_of(args)   在s中查找第一个不在args中的字符
+	s.find_last_not_of(args)    在s中查找最后一个不在args的字符
+	未找到返回npos 
+	args必须为一下形式之一:
+	c,pos       从pos位置(默认0)开始查找字符c
+	s2,pos      从pos位置(默认0)开始查找字符串s2
+	cp,pos      从pos位置查找指针cp指向的以空字符结尾的c风格字符串
+	cp,pos,n    从pos位置开始查找指针cp指向的数组的前n个字符.pos和n无默认值
+
+	比较:
+	compare函数
+	s.compare(args)
+	args:
+	s2                与s2比较
+	pos1,n1,s2        从s的pos1处的n1个字符与n2比较
+	pos1,n1,s2,pos2,n2     从s的pos1处的n1个字符与s2的pos2处的n2个字符比较
+	cp                     比较s与cp指向的以空字符结尾的字符数组
+	pos1,n1,cp             将s从pos1开始的n1个字符与cp指向的以空字符结尾的字符数组比较
+	pos1,n1,cp,n2          将s从pos1开始的n1个字符与cp指向的地址开始的n2个字符比较
+
+	转换:
+	to_string(val)    返回val数值的string表示，是一组重载函数
+	
+	stoi(s,p,b)     
+	stol(s,p,b)
+	stoul(s,p,b)
+	stoll(s,p,b)
+	stoull(s,p,b)        返回s的起始子串(表示整数内容)的数值返回值类型分别是int, long,                                        unsigned long, long long, unsigned long long,   b表示                                            转换所用的基数默认为10.p是size_t指针保存s中第一个非数值字符的下标                                    ,p默认0即函数不保存下标 
+	
+	stof(s,p)
+	stod(s,p)
+	stold(s,p)
+>>>>>>> 168c5ce32090be03d4ba1da4a4942062ecf883c5
 ##### 关系运算符:
 	==  !=              判断容器是否相等
 	<  <=  > >=    如vector<char>以容器中不相等的第一个元素以字母顺序判断 (无序关联容器不支持)

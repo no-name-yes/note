@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "27b6ee928c1f8bce",
+    "id": "f1eca259c8475b49",
     "type": "split",
     "children": [
       {
-        "id": "0aa34534c36fbce7",
+        "id": "30f0b2dcb28b74e5",
         "type": "tabs",
         "children": [
           {
-            "id": "42bd9c82f6ac4a91",
+            "id": "f05c455c743e4b18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programm/C++/Sequential container(顺序容器).md",
+                "file": "blog/Blog personal instruction.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2f2917d02c0ed5da",
+    "id": "0c6107fbf701d7e3",
     "type": "split",
     "children": [
       {
-        "id": "ad1e59c547e7e170",
+        "id": "7fe1648d5f09e7ef",
         "type": "tabs",
         "children": [
           {
-            "id": "6ceaece48543f829",
+            "id": "ae71d802b855af0e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,12 +43,12 @@
             }
           },
           {
-            "id": "ac6d37513a052b2b",
+            "id": "1ef94080030525fe",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "per",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "1955cc3aecbbc2c2",
+            "id": "a7782da2e83934ad",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "ec831d48baabe6c2",
+    "id": "77b897038f2dff68",
     "type": "split",
     "children": [
       {
-        "id": "830789197f41031c",
+        "id": "f400c03314874abb",
         "type": "tabs",
         "children": [
           {
-            "id": "55efde3fb36e331d",
+            "id": "755b1f91690da97c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programm/C++/Sequential container(顺序容器).md",
+                "file": "blog/Blog personal instruction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "b7628a5bee40cc31",
+            "id": "ed4f449cf7abcc9a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programm/C++/Sequential container(顺序容器).md",
+                "file": "blog/Blog personal instruction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "64479c9fc3e8872b",
+            "id": "df3a952cabd95514",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,21 +120,21 @@
             }
           },
           {
-            "id": "9e8f7e2a6fa4e1e0",
+            "id": "ec9c7fac7f83dcd3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "programm/C++/Sequential container(顺序容器).md"
+                "file": "blog/Blog personal instruction.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,42 +148,8 @@
       "publish:发布更改": false
     }
   },
-  "active": "42bd9c82f6ac4a91",
+  "active": "f05c455c743e4b18",
   "lastOpenFiles": [
-    "programm/生成可执行文件的过程.md",
-    "tips.md",
-    "test.md",
-    "Untitled.canvas",
-    "resource website/未命名.md",
-    "resource website/手游资源仓库网站.md",
-    "Obsidian个人使用指南.md",
-    "Personal tasks.md",
-    "resource website",
-    "programm/operator system/linux/How to delete some datas by scuerity way.md",
-    "programm/C++/Sequential container(顺序容器).md",
-    "others",
-    "programm/operator system/linux",
-    "programm tools/git/未命名.md",
-    "programm/operator system",
-    "programm/programm tools/git/progit.pdf",
-    "programm/concept define explain conference/动态链接库.md",
-    "programm/concept define explain conference",
-    "programm/C++/associative container(关联容器).md",
-    "programm/Lab/computer network/css144/Pasted image 20231017153521.png",
-    "programm/Lab/computer network/css144/Pasted image 20231017153359.png",
-    "programm/programm tools/git/git.pdf.md",
-    "progit.pdf.md",
-    "programm/programm tools/git/git note.md",
-    "programm/programm tools/make/make note.md",
-    "programm tools/make/make网页本地.md",
-    "programm/programm tools/make/make.html",
-    "programm/Lab/computer network/css144/checkpoint 0 warmup.md",
-    "programm/programm tools/make",
-    "programm/Lab/computer network/css144/minnow/writeups/check0.md",
-    "programm/Lab/computer network/css144/minnow/writeups",
-    "programm/Lab/computer network/css144/minnow/util/tcp_sender_message.hh",
-    "programm/Lab/computer network/css144/minnow/README.md",
-    "Pasted image 20231017153456.png",
-    "Lab/computer network/未命名.md"
+    "blog/frist.md"
   ]
 }
