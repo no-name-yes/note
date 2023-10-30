@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "27b6ee928c1f8bce",
+    "id": "19006a266bdb5c97",
     "type": "split",
     "children": [
       {
-        "id": "7d6026e7e446702b",
+        "id": "cbc2075bc0b15cf6",
         "type": "tabs",
         "children": [
           {
-            "id": "420aa793233a076f",
+            "id": "eed87b0c2f15f898",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "47ef6067164336b6",
+            "id": "2587eeae9b3a32dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programm/C++/associative container(关联容器).md",
+                "file": "programm/C++/Dynamic memory.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,15 +38,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2f2917d02c0ed5da",
+    "id": "5ef5f4703f07c159",
     "type": "split",
     "children": [
       {
-        "id": "ad1e59c547e7e170",
+        "id": "9fcd47be591cb1d2",
         "type": "tabs",
         "children": [
           {
-            "id": "6ceaece48543f829",
+            "id": "e247746fd114d5da",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,12 +56,12 @@
             }
           },
           {
-            "id": "ac6d37513a052b2b",
+            "id": "ff0bc9b86ab4a403",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "per",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +71,7 @@
             }
           },
           {
-            "id": "1955cc3aecbbc2c2",
+            "id": "e84151c99a768af1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -85,20 +85,20 @@
     "width": 300
   },
   "right": {
-    "id": "ec831d48baabe6c2",
+    "id": "eee2501d76b8d6bf",
     "type": "split",
     "children": [
       {
-        "id": "830789197f41031c",
+        "id": "771ace3e4673eeec",
         "type": "tabs",
         "children": [
           {
-            "id": "55efde3fb36e331d",
+            "id": "a64c2fe3b4bb5443",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programm/C++/associative container(关联容器).md",
+                "file": "programm/C++/Dynamic memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +110,19 @@
             }
           },
           {
-            "id": "b7628a5bee40cc31",
+            "id": "a59721493c3d7269",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programm/C++/associative container(关联容器).md",
+                "file": "programm/C++/Dynamic memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "64479c9fc3e8872b",
+            "id": "84757e3e09c731ca",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,21 +133,21 @@
             }
           },
           {
-            "id": "9e8f7e2a6fa4e1e0",
+            "id": "e7f7a3f4b8c2b5ed",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "programm/C++/associative container(关联容器).md"
+                "file": "programm/C++/Dynamic memory.md"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,49 +161,12 @@
       "publish:发布更改": false
     }
   },
-  "active": "6ceaece48543f829",
+  "active": "2587eeae9b3a32dd",
   "lastOpenFiles": [
-    "blog/frist.md",
-    "Obsidian个人使用指南.md",
-    "blog/Blog personal instruction.md",
-    "programm/C++/未命名.md",
-    "programm/C++/associative container(关联容器).md",
-    "未命名",
     "programm/C++/Sequential container(顺序容器).md",
+    "programm/C++/associative container(关联容器).md",
     "programm/C++/lambda.md",
-    "编程语言/未命名 1.md",
-    "编程语言/未命名.md",
-    "编程语言",
-    "programm/programm tools/make/make note.md",
-    "programm/生成可执行文件的过程.md",
-    "programm/programm tools/git/git.pdf.md",
-    "programm/programm tools/git/git note.md",
-    "programm/operator system/linux/How to delete some datas by scuerity way.md",
-    "raw words()/English.md",
-    "Personal tasks.md",
-    "tips.md",
-    "resource website/手游资源仓库网站.md",
-    "resource website",
-    "programm/programm tools/make/make.html",
-    "programm/programm tools/make",
-    "programm/programm tools/git/progit.pdf",
-    "编程语言/C++/Sequential container(顺序容器).md",
-    "programm/Lab/computer network/css144/Pasted image 20231017153359.png",
-    "programm/Lab/computer network/css144/Pasted image 20231017153521.png",
-    "programm/Lab/computer network/css144/checkpoint 0 warmup.md",
-    "programm/Lab/computer network/css144/minnow",
-    "programm/Lab/computer network/css144",
-    "programm/programm tools/git",
-    "programm/operator system/linux",
-    "programm/concept define explain conference/动态链接库.md",
-    "编程语言/C++/associative container(关联容器).md",
-    "编程语言/生成可执行文件的过程.md",
-    "programm tools/make/make note.md",
-    "Untitled.canvas",
-    "test.md",
-    "concept define explain conference/动态链接库.md",
-    "Lab/computer network/css144/Pasted image 20231017153521.png",
-    "Lab/computer network/css144/Pasted image 20231017153359.png",
-    "Pasted image 20231017153456.png"
+    "programm/C++/Dynamic memory.md",
+    "未命名 1"
   ]
 }
