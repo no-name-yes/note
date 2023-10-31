@@ -117,7 +117,7 @@ string               类似于vector 专用于保存字符 随机访问快 尾�
 ###### string类的额外操作:
 	构造:
 	string s(cp,n);           s是cp指向的数组中前n个字符的拷贝,此数组至少包含n个字符
-	string s(s2.pos2);        s是string s2从下标pos2开始的字符的拷贝,若pos2>s2.size()                                      构造函数未定义
+	string s(s2,pos2);        s是string s2从下标pos2开始的字符的拷贝,若pos2>s2.size()                                      构造函数未定义
 	string s(s2,pos2,len2);   s是string s2从下标pos2开始的len2个字符的拷贝.若pos>s2.size()                                 构造函数未定义,不管len2值是多少，构造函数之多拷贝s2.size()-pos2                               个字符
 	s.substr(pos,n)           返回一个string.包含s中从pos开始的n个字符的拷贝.pos的默认值为0.                                 n的默认值为s.size()-pos,即拷贝从pos开始的所有字符
 	内容更改：

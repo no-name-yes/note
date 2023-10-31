@@ -1,18 +1,19 @@
 {
   "main": {
-    "id": "19006a266bdb5c97",
+    "id": "f1eca259c8475b49",
     "type": "split",
     "children": [
       {
-        "id": "cbc2075bc0b15cf6",
+        "id": "30f0b2dcb28b74e5",
         "type": "tabs",
         "children": [
           {
-            "id": "eed87b0c2f15f898",
+            "id": "f05c455c743e4b18",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< HEAD
                 "file": "programm/C++/associative container(关联容器).md",
                 "mode": "source",
                 "source": false
@@ -26,27 +27,29 @@
               "type": "markdown",
               "state": {
                 "file": "programm/C++/associative container(关联容器).md",
+=======
+                "file": "programm/C++/Sequential container(顺序容器).md",
+>>>>>>> 79bc9779f51e83b0b5b7053d19ed6f9ebd5e49ee
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "5ef5f4703f07c159",
+    "id": "0c6107fbf701d7e3",
     "type": "split",
     "children": [
       {
-        "id": "9fcd47be591cb1d2",
+        "id": "7fe1648d5f09e7ef",
         "type": "tabs",
         "children": [
           {
-            "id": "e247746fd114d5da",
+            "id": "ae71d802b855af0e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +59,7 @@
             }
           },
           {
-            "id": "ff0bc9b86ab4a403",
+            "id": "1ef94080030525fe",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +74,7 @@
             }
           },
           {
-            "id": "e84151c99a768af1",
+            "id": "a7782da2e83934ad",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -85,20 +88,24 @@
     "width": 300
   },
   "right": {
-    "id": "eee2501d76b8d6bf",
+    "id": "77b897038f2dff68",
     "type": "split",
     "children": [
       {
-        "id": "771ace3e4673eeec",
+        "id": "f400c03314874abb",
         "type": "tabs",
         "children": [
           {
-            "id": "a64c2fe3b4bb5443",
+            "id": "755b1f91690da97c",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "programm/C++/associative container(关联容器).md",
+=======
+                "file": "programm/C++/Sequential container(顺序容器).md",
+>>>>>>> 79bc9779f51e83b0b5b7053d19ed6f9ebd5e49ee
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +117,23 @@
             }
           },
           {
-            "id": "a59721493c3d7269",
+            "id": "ed4f449cf7abcc9a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "programm/C++/associative container(关联容器).md",
+=======
+                "file": "programm/C++/Sequential container(顺序容器).md",
+>>>>>>> 79bc9779f51e83b0b5b7053d19ed6f9ebd5e49ee
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "84757e3e09c731ca",
+            "id": "df3a952cabd95514",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,21 +144,25 @@
             }
           },
           {
-            "id": "e7f7a3f4b8c2b5ed",
+            "id": "ec9c7fac7f83dcd3",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< HEAD
                 "file": "programm/C++/associative container(关联容器).md"
+=======
+                "file": "programm/C++/Sequential container(顺序容器).md"
+>>>>>>> 79bc9779f51e83b0b5b7053d19ed6f9ebd5e49ee
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,6 +176,7 @@
       "publish:发布更改": false
     }
   },
+<<<<<<< HEAD
   "active": "e247746fd114d5da",
   "lastOpenFiles": [
     "programm/programm tools/make/make note.md",
@@ -172,5 +188,14 @@
     "programm/C++/associative container(关联容器).md",
     "programm/C++/Sequential container(顺序容器).md",
     "未命名 1"
+=======
+  "active": "f05c455c743e4b18",
+  "lastOpenFiles": [
+    "programm/C++/Dynamic memory.md",
+    "programm/C++/associative container(关联容器).md",
+    "programm/C++/Sequential container(顺序容器).md",
+    "blog/Blog personal instruction.md",
+    "blog/frist.md"
+>>>>>>> 79bc9779f51e83b0b5b7053d19ed6f9ebd5e49ee
   ]
 }
