@@ -1,55 +1,52 @@
 {
   "main": {
-    "id": "f1eca259c8475b49",
+    "id": "d85d474f45207949",
     "type": "split",
     "children": [
       {
-        "id": "30f0b2dcb28b74e5",
+        "id": "2b5ce467a6d97e6a",
         "type": "tabs",
         "children": [
           {
-            "id": "f05c455c743e4b18",
+            "id": "d57db0c8ccaa4948",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "programm/C++/associative container(关联容器).md",
+                "file": "tips.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2587eeae9b3a32dd",
+            "id": "282e8e7d57c82f6a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programm/C++/associative container(关联容器).md",
-=======
-                "file": "programm/C++/Sequential container(顺序容器).md",
->>>>>>> 79bc9779f51e83b0b5b7053d19ed6f9ebd5e49ee
+                "file": "blog/frist.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "0c6107fbf701d7e3",
+    "id": "1f781bc43ec2df80",
     "type": "split",
     "children": [
       {
-        "id": "7fe1648d5f09e7ef",
+        "id": "e64974565b1c66ae",
         "type": "tabs",
         "children": [
           {
-            "id": "ae71d802b855af0e",
+            "id": "b3bb079a4dee3c59",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -59,7 +56,7 @@
             }
           },
           {
-            "id": "1ef94080030525fe",
+            "id": "3a446902b495ffe1",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -74,7 +71,7 @@
             }
           },
           {
-            "id": "a7782da2e83934ad",
+            "id": "0b35efb11ddee7a0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -88,24 +85,20 @@
     "width": 300
   },
   "right": {
-    "id": "77b897038f2dff68",
+    "id": "7cc7506a041c3d9d",
     "type": "split",
     "children": [
       {
-        "id": "f400c03314874abb",
+        "id": "0d1ed373f4bd3e49",
         "type": "tabs",
         "children": [
           {
-            "id": "755b1f91690da97c",
+            "id": "86d82a437064ee5e",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "programm/C++/associative container(关联容器).md",
-=======
-                "file": "programm/C++/Sequential container(顺序容器).md",
->>>>>>> 79bc9779f51e83b0b5b7053d19ed6f9ebd5e49ee
+                "file": "blog/frist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,23 +110,19 @@
             }
           },
           {
-            "id": "ed4f449cf7abcc9a",
+            "id": "7f602d18a6cc5724",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "programm/C++/associative container(关联容器).md",
-=======
-                "file": "programm/C++/Sequential container(顺序容器).md",
->>>>>>> 79bc9779f51e83b0b5b7053d19ed6f9ebd5e49ee
+                "file": "blog/frist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "df3a952cabd95514",
+            "id": "750f46a7d474ce27",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -144,25 +133,31 @@
             }
           },
           {
-            "id": "ec9c7fac7f83dcd3",
+            "id": "fae3dd1cde9564ab",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
-                "file": "programm/C++/associative container(关联容器).md"
-=======
-                "file": "programm/C++/Sequential container(顺序容器).md"
->>>>>>> 79bc9779f51e83b0b5b7053d19ed6f9ebd5e49ee
+                "file": "blog/frist.md"
+              }
+            }
+          },
+          {
+            "id": "6414e0f95510f241",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,29 +168,23 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "random-note:开始漫游笔记": false,
-      "publish:发布更改": false
+      "publish:发布更改": false,
+      "audio-recorder:开始/结束录音": false
     }
   },
-<<<<<<< HEAD
-  "active": "e247746fd114d5da",
+  "active": "282e8e7d57c82f6a",
   "lastOpenFiles": [
-    "programm/programm tools/make/make note.md",
     "programm/C++/Dynamic memory.md",
     "programm/C++/lambda.md",
-    "programm/concept define explain conference/动态链接库.md",
+    "programm/C++/Sequential container(顺序容器).md",
+    "programm/C++/associative container(关联容器).md",
+    "未命名.md",
+    "tips.md",
+    "test.md",
+    "programm/programm tools/git/git note.md",
+    "programm/programm tools/make/make note.md",
+    "programm/operator system/linux/How to delete some datas by scuerity way.md",
     "programm/programm tools/git/progit.pdf",
-    "Obsidian个人使用指南.md",
-    "programm/C++/associative container(关联容器).md",
-    "programm/C++/Sequential container(顺序容器).md",
-    "未命名 1"
-=======
-  "active": "f05c455c743e4b18",
-  "lastOpenFiles": [
-    "programm/C++/Dynamic memory.md",
-    "programm/C++/associative container(关联容器).md",
-    "programm/C++/Sequential container(顺序容器).md",
-    "blog/Blog personal instruction.md",
-    "blog/frist.md"
->>>>>>> 79bc9779f51e83b0b5b7053d19ed6f9ebd5e49ee
+    "programm/programm tools/git/git.pdf.md"
   ]
 }

@@ -7,7 +7,7 @@
 
 使用new和delete来管理动态内存，需要确保销毁对象，否则会发生内存泄漏
 
-使用shared_ptr和unique_ptr来自动释放内存，weak_ptr是一种伴随类，弱引用。其三都定义在memory头文件中,类似于vector，智能指针也是一种模板
+使用shared_ptr和unique_ptr来自动释放内存，weak_ptr是一种伴随类，弱引用[^weak_ptr]。其三都定义在memory头文件中,类似于vector，智能指针也是一种模板
 如shared_ptr<string> p1
 
 shared_ptr为一种共享动态指针，可以允许多个shared_ptr指向同一个对象
@@ -17,7 +17,8 @@ unique_ptr“独占”一个对象
 
 make_shared<T>(args) 返回一个shared_ptr 用(args)来初始化对象，如同顺序容器中的emplace一样用其元素T的构造函数来初始化
 
-p.use_count() 返回与P共享对象的只能指针数量（可能很慢，主要用于调试）
+
+
 
 p.unique()      若p.use_count()为1返回true否则返回false
 
@@ -25,4 +26,16 @@ p.unique()      若p.use_count()为1返回true否则返回false
 
 使用delete删除后可能会有空悬指针即指向一块无效内存的指针。如果要保留指针可以用nullptr赋值
 
+
+
+
+#### allocator
+同样被包含在头文件memory中的库函数，在使用new这种动态内存分配的函数时，内存的调配和构造是一同进行，而使用allocator可只分配内存不进行构造(?)
+
+
+
+
+
+
+[^weak_ptr]:
 
