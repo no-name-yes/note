@@ -1,6 +1,6 @@
 {
   "rightToLeft": false,
-  "vimMode": true,
+  "vimMode": false,
   "useTab": true,
   "smartIndentList": true,
   "newFileLocation": "current",

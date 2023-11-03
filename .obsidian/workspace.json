@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programm/C++/associative container(关联容器).md",
+                "file": "programm/C++/Dynamic memory.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programm/C++/associative container(关联容器).md",
+                "file": "programm/C++/Dynamic memory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programm/C++/associative container(关联容器).md",
+                "file": "programm/C++/Dynamic memory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programm/C++/associative container(关联容器).md"
+                "file": "programm/C++/Dynamic memory.md"
               }
             }
           }
@@ -134,7 +134,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -151,15 +152,23 @@
   "active": "f05c455c743e4b18",
   "lastOpenFiles": [
     "computer base/memory/未命名.md",
+    "programm/programm tools/git/progit.pdf",
+    "programm/concept define explain conference/动态链接库.md",
+    "programm/programm tools/git/git.pdf.md",
+    "programm/programm tools/RSS/RSS初步了解记录.md",
+    "blog/frist.md",
+    "programm/programm tools/RSS",
+    "programm/programm tools/a.md",
+    "编程语言/未命名.md",
+    "programm/C++/associative container(关联容器).md",
+    "programm/C++/lambda.md",
+    "programm/C++/Dynamic memory.md",
     "未命名.canvas",
     "Obsidian个人使用指南.md",
-    "blog/frist.md",
     "computer base/memory",
     "未命名",
     "computer base",
     "Personal tasks.md",
-    "programm/C++/associative container(关联容器).md",
-    "programm/C++/Dynamic memory.md",
     "programm/C++/Sequential container(顺序容器).md",
     "blog/Blog personal instruction.md"
   ]
