@@ -156,8 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,19 +173,24 @@
   },
   "active": "b3bb079a4dee3c59",
   "lastOpenFiles": [
-    "raw words()/English.md",
-    "blog/frist.md",
+    "programm/C++/data struct.md",
     "programm/C++/Sequential container(顺序容器).md",
     "programm/C++/Dynamic memory.md",
+    "blog/frist.md",
+    "programm/programm tools/git/git.pdf.md",
+    "programm/programm tools/git/git note.md",
+    "programm/programm tools/make/make note.md",
+    "programm/生成可执行文件的过程.md",
+    "Obsidian个人使用指南.md",
+    "编程语言/未命名 1.md",
+    "编程语言/未命名.md",
+    "raw words()/English.md",
     "programm/C++/lambda.md",
     "programm/C++/associative container(关联容器).md",
     "未命名.md",
     "tips.md",
     "test.md",
-    "programm/programm tools/git/git note.md",
-    "programm/programm tools/make/make note.md",
     "programm/operator system/linux/How to delete some datas by scuerity way.md",
-    "programm/programm tools/git/progit.pdf",
-    "programm/programm tools/git/git.pdf.md"
+    "programm/programm tools/git/progit.pdf"
   ]
 }

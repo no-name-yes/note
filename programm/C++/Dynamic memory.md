@@ -11,6 +11,17 @@
 如shared_ptr<string> p1
 
 shared_ptr为一种共享动态指针，可以允许多个shared_ptr指向同一个对象
+
+shared_ptr的操作:
+shared_ptr<T> p(q,d)      p接管了内置指针q所指向的对象的所有权.q必选转换为T*类型，同时p将使用可调用对象d来代替delete
+
+shared_ptr<T> p(p2,d)    p是shared_ptr p2的拷贝，p使用可调用对象d来代替delete
+
+p.reset()
+p.reset(q)
+p.reset(q,d)     若p是唯一指向其对象的shared_ptr,reset会释放此对象，若有可选参数内置指针q,则令p指向q,否则p置空，若还有d则会使用可调用对面d而不是delete来释放q.
+
+
 unique_ptr“独占”一个对象
 
 对于shared_ptr独有的操作:
@@ -26,7 +37,7 @@ p.unique()      若p.use_count()为1返回true否则返回false
 
 使用delete删除后可能会有空悬指针即指向一块无效内存的指针。如果要保留指针可以用nullptr赋值
 
-
+智能指针还有定义了一个get函数，其返回一个内置指针，指向智能指针管理的对象,get用来将指针的访问权限传递给代码，你只有在确定代码不会delete指针的情况下，才能使用get，特别是不要使用get初始化另一个智能指针或者为另一个智能指针赋值.
 
 
 #### allocator
