@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian个人使用指南.md",
+                "file": "tips.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian个人使用指南.md",
+                "file": "tips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian个人使用指南.md",
+                "file": "tips.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian个人使用指南.md"
+                "file": "tips.md"
               }
             }
           },
@@ -159,8 +159,23 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "d57db0c8ccaa4948",
+  "active": "b3bb079a4dee3c59",
   "lastOpenFiles": [
+    "Obsidian个人使用指南.md",
+    "computer base/computer network/transfer layer/flow control.md",
+    "computer base/computer network/transfer layer/UDP/UDP introduction.md",
+    "computer base/computer network/transfer layer/UDP",
+    "computer base/computer network/transfer layer/TCP/TCP introduction.md",
+    "computer base/computer network/network layer/ICMP.md",
+    "computer base/computer network/network layer",
+    "computer base/computer network/attched resource/Pasted image 20231110154536.png",
+    "computer base/computer network/Thinking.md",
+    "computer base/computer network/Retransmission Strategies.md",
+    "computer base/computer network/Error Detection.md",
+    "Pasted image 20231111092036.png",
+    "Pasted image 20231111092030.png",
+    "Pasted image 20231111081603.png",
+    "Pasted image 20231111072531.png",
     "blog/Blog personal instruction.md",
     "tips.md",
     "computer base/computer network/transfer layer/TCP/TCP FSM.md",
@@ -182,8 +197,6 @@
     "Lab/computer network/css144/Pasted image 20231017153359.png",
     "Lab/computer network/css144/minnow",
     "Lab/computer network/css144/checkpoint 0 warmup.md",
-    "Lab/computer network/css144",
-    "Lab/computer network",
     "programm/C++/Sequential container(顺序容器).md",
     "programm/C++/associative container(关联容器).md",
     "programm/C++/data struct.md",
@@ -193,14 +206,6 @@
     "programm/C++/lambda.md",
     "programm/C++/Dynamic memory.md",
     "未命名.canvas",
-    "programm/programm tools/RSS/RSS初步了解记录.md",
-    "programm/programm tools/make/make note.md",
-    "programm/生成可执行文件的过程.md",
-    "Obsidian个人使用指南.md",
-    "编程语言/未命名 1.md",
-    "编程语言/未命名.md",
-    "raw words()/English.md",
-    "未命名.md",
-    "test.md"
+    "programm/programm tools/RSS/RSS初步了解记录.md"
   ]
 }

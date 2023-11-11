@@ -1,0 +1,1 @@
+3 schemes of error detection: checksum ;  CRC ;  MAC
