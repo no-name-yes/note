@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programm/C++/Sequential container(顺序容器).md",
+                "file": "computer base/computer network/transfer layer/TCP/TCP flow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "402585a9f03c6649",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "computer base/computer network/Retransmission Strategies.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programm/C++/Sequential container(顺序容器).md",
+                "file": "computer base/computer network/Retransmission Strategies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programm/C++/Sequential container(顺序容器).md",
+                "file": "computer base/computer network/Retransmission Strategies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programm/C++/Sequential container(顺序容器).md"
+                "file": "computer base/computer network/Retransmission Strategies.md"
               }
             }
           }
@@ -172,23 +184,39 @@
       "publish:发布更改": false
     }
   },
-  "active": "884167af32521af8",
+  "active": "402585a9f03c6649",
   "lastOpenFiles": [
+    "computer base/computer network/Error Detection.md",
+    "computer base/computer network/Retransmission Strategies.md",
+    "computer base/computer network/Thinking.md",
+    "computer base/computer network/transfer layer/flow control.md",
+    "computer base/computer network/transfer layer/TCP/TCP flow.md",
+    "computer base/computer network/transfer layer/TCP/TCP introduction.md",
+    "raw words()/English.md",
+    "Personal tasks.md",
+    "concept.md",
+    "Untitled.canvas",
+    "programm/C++/Sequential container(顺序容器).md",
+    "programm/C++/associative container(关联容器).md",
+    "computer base/computer network/transfer layer/TCP/TCP FSM.md",
+    "computer base/computer network/network layer/ICMP.md",
+    "Pasted image 20231111092036.png",
+    "Pasted image 20231111092030.png",
+    "Pasted image 20231111081603.png",
+    "computer base/computer network/transfer layer/UDP/UDP introduction.md",
+    "computer base/computer network/network layer",
+    "Pasted image 20231111072531.png",
+    "computer base/computer network/attched resource/Pasted image 20231110154536.png",
     "programm/C++/data struct.md",
     "computer base/memory/Enddianness大端法和小端法.md",
-    "concept.md",
     "tips.md",
-    "programm/C++/associative container(关联容器).md",
-    "Personal tasks.md",
     "Obsidian个人使用指南.md",
     "未命名.md",
     "未命名.canvas",
     "未命名",
-    "computer base/computer network/transfer layer/TCP/TCP flow.md",
     "computer base/computer network/transfer layer/UDP",
     "computer base/computer network/transfer layer",
     "computer base/computer network/transfer layer/TCP",
-    "computer base/computer network/transfer layer/TCP/TCP FSM.md",
     "computer base/computer network/attched resource/TCP FSM diagram2.png",
     "computer base/computer network/attched resource/Pasted image 20231108151552.png.md",
     "computer base/computer network/attched resource/TCP FSM diagram.png",
@@ -198,9 +226,7 @@
     "programm/concept define explain conference && resource/动态链接库.md",
     "computer base/computer network/attched resource",
     "computer base/computer network",
-    "programm/C++/Sequential container(顺序容器).md",
     "programm/C++/Dynamic memory.md",
-    "raw words()/English.md",
     "blog/frist.md",
     "programm/C++/lambda.md"
   ]
