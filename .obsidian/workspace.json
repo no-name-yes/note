@@ -1,31 +1,30 @@
 {
   "main": {
-    "id": "d85d474f45207949",
+    "id": "8a92f5b173447f66",
     "type": "split",
     "children": [
       {
-        "id": "2b5ce467a6d97e6a",
+        "id": "794bfdab8cd9f703",
         "type": "tabs",
         "children": [
           {
-            "id": "d57db0c8ccaa4948",
+            "id": "abff716d89fc4f02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tips.md",
+                "file": "Personal tasks.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "282e8e7d57c82f6a",
+            "id": "884167af32521af8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
                 "file": "computer base/computer network/transfer layer/TCP/TCP flow.md",
                 "mode": "source",
                 "source": false
@@ -36,14 +35,9 @@
             "id": "402585a9f03c6649",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "computer base/computer network/Retransmission Strategies.md",
-=======
-                "file": "computer base/computer network/transfer layer/TCP/TCP FSM.md",
->>>>>>> 840158670c77b0ca5dcc73ca5deca1d32a21cc97
-                "mode": "source",
-                "source": false
+                "file": "computer base/algorithm/hello-algo-1.0.0b5-zh-cpp.pdf"
               }
             }
           }
@@ -54,15 +48,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "1f781bc43ec2df80",
+    "id": "fda6cc394fb5e65c",
     "type": "split",
     "children": [
       {
-        "id": "e64974565b1c66ae",
+        "id": "5679daa203362c5a",
         "type": "tabs",
         "children": [
           {
-            "id": "b3bb079a4dee3c59",
+            "id": "8429db321bda63a5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -72,7 +66,7 @@
             }
           },
           {
-            "id": "3a446902b495ffe1",
+            "id": "d54c968a911e1743",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -87,7 +81,7 @@
             }
           },
           {
-            "id": "0b35efb11ddee7a0",
+            "id": "1859ebb6dc38bf74",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -101,24 +95,20 @@
     "width": 300
   },
   "right": {
-    "id": "7cc7506a041c3d9d",
+    "id": "a687a1154349b364",
     "type": "split",
     "children": [
       {
-        "id": "0d1ed373f4bd3e49",
+        "id": "684266768aaefe7a",
         "type": "tabs",
         "children": [
           {
-            "id": "86d82a437064ee5e",
+            "id": "5cd2f3d013b7c7d3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-                "file": "computer base/computer network/Retransmission Strategies.md",
-=======
-                "file": "computer base/computer network/transfer layer/TCP/TCP FSM.md",
->>>>>>> 840158670c77b0ca5dcc73ca5deca1d32a21cc97
+                "file": "computer base/algorithm/hello-algo-1.0.0b5-zh-cpp.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,23 +120,19 @@
             }
           },
           {
-            "id": "7f602d18a6cc5724",
+            "id": "c82e2f9500d6d9ae",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-                "file": "computer base/computer network/Retransmission Strategies.md",
-=======
-                "file": "computer base/computer network/transfer layer/TCP/TCP FSM.md",
->>>>>>> 840158670c77b0ca5dcc73ca5deca1d32a21cc97
+                "file": "computer base/algorithm/hello-algo-1.0.0b5-zh-cpp.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "750f46a7d474ce27",
+            "id": "629afb04783f6a71",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -157,17 +143,7 @@
             }
           },
           {
-            "id": "fae3dd1cde9564ab",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "computer base/computer network/transfer layer/TCP/TCP FSM.md"
-              }
-            }
-          },
-          {
-            "id": "6414e0f95510f241",
+            "id": "f593fc0f07daa169",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -175,7 +151,6 @@
                 "sortOrder": "frequency"
               }
             }
-<<<<<<< HEAD
           },
           {
             "id": "c70c44c49606d57d",
@@ -183,14 +158,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer base/computer network/Retransmission Strategies.md"
+                "file": "computer base/algorithm/hello-algo-1.0.0b5-zh-cpp.pdf"
               }
             }
-=======
->>>>>>> 840158670c77b0ca5dcc73ca5deca1d32a21cc97
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -206,15 +179,18 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "random-note:开始漫游笔记": false,
-      "publish:发布更改": false,
-      "audio-recorder:开始/结束录音": false
+      "audio-recorder:开始/结束录音": false,
+      "publish:发布更改": false
     }
   },
-<<<<<<< HEAD
   "active": "402585a9f03c6649",
   "lastOpenFiles": [
-    "computer base/computer network/Error Detection.md",
+    "programm/C++/Sequential container(顺序容器).md",
+    "programm/C++/associative container(关联容器).md",
+    "computer base/algorithm/hello-algo-1.0.0b5-zh-cpp.pdf",
     "computer base/computer network/Retransmission Strategies.md",
+    "computer base/algorithm",
+    "computer base/computer network/Error Detection.md",
     "computer base/computer network/Thinking.md",
     "computer base/computer network/transfer layer/flow control.md",
     "computer base/computer network/transfer layer/TCP/TCP flow.md",
@@ -223,8 +199,6 @@
     "Personal tasks.md",
     "concept.md",
     "Untitled.canvas",
-    "programm/C++/Sequential container(顺序容器).md",
-    "programm/C++/associative container(关联容器).md",
     "computer base/computer network/transfer layer/TCP/TCP FSM.md",
     "computer base/computer network/network layer/ICMP.md",
     "Pasted image 20231111092036.png",
@@ -235,7 +209,7 @@
     "Pasted image 20231111072531.png",
     "computer base/computer network/attched resource/Pasted image 20231110154536.png",
     "programm/C++/data struct.md",
-    "computer base/memory/Enddianness大端法和小端法.md",
+    "computer base/operator system/memory/Enddianness大端法和小端法.md",
     "tips.md",
     "Obsidian个人使用指南.md",
     "未命名.md",
@@ -250,56 +224,11 @@
     "Pasted image 20231108151830.png",
     "Pasted image 20231108151552.png",
     "computer base/memory/未命名.md",
-=======
-  "active": "282e8e7d57c82f6a",
-  "lastOpenFiles": [
-    "computer base/computer network/transfer layer/TCP/TCP flow.md",
-    "computer base/computer network/transfer layer/TCP/TCP FSM.md",
-    "blog/frist.md",
->>>>>>> 840158670c77b0ca5dcc73ca5deca1d32a21cc97
     "programm/concept define explain conference && resource/动态链接库.md",
-    "programm/concept define explain conference && resource",
-    "concept.md",
-    "computer base/operator system/linux/How to delete some datas by scuerity way.md",
-    "computer base/operator system/linux",
-    "computer base/operator system",
-    "computer base/computer network/transfer layer/TCP",
-    "computer base/computer network/attched resource/TCP FSM diagram2.png",
-    "computer base/computer network/attched resource/TCP FSM diagram.png",
-    "computer base/computer network/transfer layer",
     "computer base/computer network/attched resource",
     "computer base/computer network",
-<<<<<<< HEAD
     "programm/C++/Dynamic memory.md",
     "blog/frist.md",
     "programm/C++/lambda.md"
-=======
-    "Lab/computer network/css144/Pasted image 20231017153521.png",
-    "Lab/computer network/css144/Pasted image 20231017153359.png",
-    "Lab/computer network/css144/minnow",
-    "Lab/computer network/css144/checkpoint 0 warmup.md",
-    "Lab/computer network/css144",
-    "Lab/computer network",
-    "programm/C++/Sequential container(顺序容器).md",
-    "programm/C++/associative container(关联容器).md",
-    "programm/C++/data struct.md",
-    "computer base/memory/Enddianness大端法和小端法.md",
-    "programm/programm tools/git/git.pdf.md",
-    "programm/programm tools/git/git note.md",
-    "programm/C++/lambda.md",
-    "programm/C++/Dynamic memory.md",
-    "tips.md",
-    "未命名.canvas",
-    "programm/programm tools/RSS/RSS初步了解记录.md",
-    "programm/programm tools/make/make note.md",
-    "programm/生成可执行文件的过程.md",
-    "Obsidian个人使用指南.md",
-    "编程语言/未命名 1.md",
-    "编程语言/未命名.md",
-    "raw words()/English.md",
-    "未命名.md",
-    "test.md",
-    "programm/operator system/linux/How to delete some datas by scuerity way.md"
->>>>>>> 840158670c77b0ca5dcc73ca5deca1d32a21cc97
   ]
 }
