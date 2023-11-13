@@ -36,13 +36,57 @@
 3 writing a nework program using an OS stream
 		git clone https://github.com/cs144/minnow 指令来获得nodebase
 
+	writing webget 
+	补充所克隆仓库minnow中的webget.cc文件在其中的get_url函数中补充代码完成以代码的形式向网站发送报文。
+	编写一个webget的C++套接字程序,你只需在webget.cc里面的get_url函数中补充缺少的部分,现在来考虑tcp的连接过程,作为一个cilent我们需要向一个服务区发送我们的请求,接下来我们需要将我们请求的内容写入报文段发送给接收方，紧接着我们只需要读取回复的报文即可，首先我们要生成socket.hh头文件中提供的tcpsocket类,让后绑定一个地址和提供使用的协议,再使用tcpsocket的write函数写入报文发送
+
+	其中补充的代码如下:
+![[Pasted image 20231113194200.png]]
+
+[[TCP FSM]]
+让我们考虑一下tcp fsm的流程,首先考虑到服务器已经处于监听状态,我们的客户机处于closed状态,现在我们需要实例化一个tcpsocket,对其绑定地址和使用的协议,此时与服务器去建立tcp连接,再用write函数去写入字符串报文tcp会将其发送给服务器,再使用一个字符串s缓冲接收回复的报文段当读入EOF(end of file)时完成。输出打印报文结果.使用指令./apps/webget cs144.keithw.org /hello测试结果如下:
+![[Pasted image 20231113195449.png]]
+
+minnow中还有两个测试用例输入cmake --build build --target check_webget来测试使用单元
+![[Pasted image 20231113195806.png]]
+
+
+
+An in-memory reliable byte stream 
+现在你需要在内存中实现可靠,有序,流控制,有限的字节流传输。尽管internet提供的只是尽最大努力的交付传输,现在有输入和读取两方,在byte_stream.hh和byte_stream.cc中实现以下接口:
+writer:
+
+
+```cpp
+ void push( std::string data ); // Push data to stream, but only as much as available capacity allows.
+
+  void close();     // Signal that the stream has reached its ending. Nothing more will be written.
+  void set_error(); // Signal that the stream suffered an error.
+
+  bool is_closed() const;              // Has the stream been closed?
+  uint64_t available_capacity() const; // How many bytes can be pushed to the stream right now?
+  uint64_t bytes_pushed() const;       // Total number of bytes cumulatively pushed to the stream
+```
+
+
+reader:
+```cpp
+ std::string_view peek() const; // Peek at the next bytes in the buffer
+  void pop( uint64_t len );      // Remove `len` bytes from the buffer
+
+  bool is_finished() const; // Is the stream finished (closed and fully popped)?
+  bool has_error() const;   // Has the stream had an error?
+
+  uint64_t bytes_buffered() const; // Number of bytes currently buffered (pushed and not popped)
+  uint64_t bytes_popped() const;   // Total number of bytes cumulatively popped from stream
+  ```
+
+补充的代码如下:
 
 
 
 
-
-
-
+使用指令cmake --build build --target check0来测试本例。
 
 
 

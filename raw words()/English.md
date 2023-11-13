@@ -1,1 +1,3 @@
  - [ ] duplication                          重复
+ - [ ] payload                               有效负载
+ - [ ] teardown                             拆除

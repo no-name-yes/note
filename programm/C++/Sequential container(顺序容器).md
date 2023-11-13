@@ -29,7 +29,7 @@ string               类似于vector 专用于保存字符 随机访问快 尾�
 	C c1(c2);     构造c2的拷贝c1
 	C c(b,e);      将迭代器b和e指定范围的元素拷贝到c（array不支持）
 	C c{a,b,c...}; 列表初始化
-	C c(n);        c包含n个值初始化的元素，此构造函数时explicit的(不支持string)
+	C c(n);        c包含n个值初始化的元素，此构造函数是explicit的(不支持string)
 	C c(n,x);     初始化n个为x的元素
 ##### 赋值:
 	c1=c2;           将c1中元素替换为c2中元素
