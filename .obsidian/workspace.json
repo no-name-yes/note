@@ -11,11 +11,9 @@
             "id": "d57db0c8ccaa4948",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "tips.md",
-                "mode": "source",
-                "source": false
+                "file": "computer base/algorithm/hello-algo-1.0.0b5-zh-cpp.pdf"
               }
             }
           }
@@ -69,7 +67,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7cc7506a041c3d9d",
@@ -85,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tips.md",
+                "file": "computer base/algorithm/hello-algo-1.0.0b5-zh-cpp.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tips.md",
+                "file": "computer base/algorithm/hello-algo-1.0.0b5-zh-cpp.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tips.md"
+                "file": "computer base/algorithm/hello-algo-1.0.0b5-zh-cpp.pdf"
               }
             }
           },
@@ -144,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,8 +159,19 @@
       "audio-recorder:开始/结束录音": false
     }
   },
-  "active": "b3bb079a4dee3c59",
+  "active": "d57db0c8ccaa4948",
   "lastOpenFiles": [
+    "programm/C++/associative container(关联容器).md",
+    "programm/programm tools/git/progit.pdf",
+    "programm/programm tools/git/git.pdf.md",
+    "computer base/algorithm/hello-algo-1.0.0b5-zh-cpp.pdf",
+    "computer base/computer network/attched resource/Pasted image 20231110154536.png",
+    "Lab/computer network/css144/checkpoint 0 warmup.md",
+    "Lab/computer network/css144/Pasted image 20231017153359.png",
+    "tips.md",
+    "computer base/operator system/memory/Enddianness大端法和小端法.md",
+    "computer base/operator system/memory",
+    "computer base/algorithm",
     "Obsidian个人使用指南.md",
     "computer base/computer network/transfer layer/flow control.md",
     "computer base/computer network/transfer layer/UDP/UDP introduction.md",
@@ -168,7 +179,6 @@
     "computer base/computer network/transfer layer/TCP/TCP introduction.md",
     "computer base/computer network/network layer/ICMP.md",
     "computer base/computer network/network layer",
-    "computer base/computer network/attched resource/Pasted image 20231110154536.png",
     "computer base/computer network/Thinking.md",
     "computer base/computer network/Retransmission Strategies.md",
     "computer base/computer network/Error Detection.md",
@@ -177,7 +187,6 @@
     "Pasted image 20231111081603.png",
     "Pasted image 20231111072531.png",
     "blog/Blog personal instruction.md",
-    "tips.md",
     "computer base/computer network/transfer layer/TCP/TCP FSM.md",
     "computer base/computer network/transfer layer/TCP/TCP flow.md",
     "blog/frist.md",
@@ -190,22 +199,12 @@
     "computer base/computer network/transfer layer/TCP",
     "computer base/computer network/attched resource/TCP FSM diagram2.png",
     "computer base/computer network/attched resource/TCP FSM diagram.png",
-    "computer base/computer network/transfer layer",
-    "computer base/computer network/attched resource",
-    "computer base/computer network",
     "Lab/computer network/css144/Pasted image 20231017153521.png",
-    "Lab/computer network/css144/Pasted image 20231017153359.png",
-    "Lab/computer network/css144/minnow",
-    "Lab/computer network/css144/checkpoint 0 warmup.md",
     "programm/C++/Sequential container(顺序容器).md",
-    "programm/C++/associative container(关联容器).md",
     "programm/C++/data struct.md",
     "computer base/memory/Enddianness大端法和小端法.md",
-    "programm/programm tools/git/git.pdf.md",
     "programm/programm tools/git/git note.md",
     "programm/C++/lambda.md",
-    "programm/C++/Dynamic memory.md",
-    "未命名.canvas",
-    "programm/programm tools/RSS/RSS初步了解记录.md"
+    "未命名.canvas"
   ]
 }
