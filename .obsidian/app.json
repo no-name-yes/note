@@ -4,5 +4,6 @@
   "useTab": true,
   "smartIndentList": true,
   "newFileLocation": "current",
-  "attachmentFolderPath": "others"
+  "attachmentFolderPath": "others",
+  "showLineNumber": false
 }
