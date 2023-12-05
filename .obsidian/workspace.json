@@ -11,9 +11,11 @@
             "id": "b9f70027b7bb3722",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "programm/programm tools/git/progit.pdf"
+                "file": "computer base/computer network/packet switching.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -91,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "programm/programm tools/git/progit.pdf",
+                "file": "computer base/computer network/packet switching.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programm/programm tools/git/progit.pdf",
+                "file": "computer base/computer network/packet switching.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programm/programm tools/git/progit.pdf"
+                "file": "computer base/computer network/packet switching.md"
               }
             }
           }
@@ -167,8 +169,10 @@
   },
   "active": "b9f70027b7bb3722",
   "lastOpenFiles": [
+    "blog/未命名.md",
+    "computer base/computer network/packet switching.md",
+    "programm/programm tools/git/progit.pdf",
     "programm/programm tools/git/git note.md",
-    "computer base/computer network/network layer/packet switching.md",
     "computer base/computer network/network layer/ICMP.md",
     "programm/C++/Sequential container(顺序容器).md",
     "programm/C++/data struct.md",
