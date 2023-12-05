@@ -1,90 +1,35 @@
 {
   "main": {
-    "id": "d85d474f45207949",
+    "id": "05ecd24c727e9cf9",
     "type": "split",
     "children": [
       {
-        "id": "2b5ce467a6d97e6a",
+        "id": "25960375acb3da78",
         "type": "tabs",
         "children": [
           {
-<<<<<<< HEAD
-            "id": "abff716d89fc4f02",
+            "id": "8cbacf1cb8b0b8e5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal tasks.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "884167af32521af8",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Lab/computer network/css144/Pasted image 20231017153359.png"
-              }
-            }
-          },
-          {
-            "id": "f6a0a775df84516b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "computer base/computer network/attched resource/Pasted image 20231111081603.png"
-              }
-            }
-          },
-          {
-            "id": "f53789404e2fe5d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "computer base/computer network/transfer layer/TCP/TCP introduction.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "402585a9f03c6649",
-=======
-            "id": "d57db0c8ccaa4948",
->>>>>>> c87a423631e0d2e2cea1c8c491d505ae8754a902
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "computer base/algorithm/hello-algo-1.0.0b5-zh-cpp.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-<<<<<<< HEAD
-        ],
-        "currentTab": 3
-=======
         ]
->>>>>>> c87a423631e0d2e2cea1c8c491d505ae8754a902
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "1f781bc43ec2df80",
+    "id": "ec617c4848151d3b",
     "type": "split",
     "children": [
       {
-        "id": "e64974565b1c66ae",
+        "id": "a8642eb20439ed09",
         "type": "tabs",
         "children": [
           {
-            "id": "b3bb079a4dee3c59",
+            "id": "cfe55b43aaa5cbbc",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -94,7 +39,7 @@
             }
           },
           {
-            "id": "3a446902b495ffe1",
+            "id": "96de0308cb19a35a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -109,7 +54,7 @@
             }
           },
           {
-            "id": "0b35efb11ddee7a0",
+            "id": "e37f5808d69b75a1",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -120,24 +65,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "7cc7506a041c3d9d",
+    "id": "2e6272145cc45c96",
     "type": "split",
     "children": [
       {
-        "id": "0d1ed373f4bd3e49",
+        "id": "b51b42268c8899fe",
         "type": "tabs",
         "children": [
           {
-            "id": "86d82a437064ee5e",
+            "id": "2a158de02e52946a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer base/computer network/transfer layer/TCP/TCP introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,19 +92,18 @@
             }
           },
           {
-            "id": "7f602d18a6cc5724",
+            "id": "741f558461c6c541",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer base/computer network/transfer layer/TCP/TCP introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "750f46a7d474ce27",
+            "id": "829e9200f217eab7",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -172,17 +114,7 @@
             }
           },
           {
-            "id": "fae3dd1cde9564ab",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "computer base/computer network/transfer layer/TCP/TCP introduction.md"
-              }
-            }
-          },
-          {
-            "id": "6414e0f95510f241",
+            "id": "7aa4b30dc53c7796",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -190,124 +122,35 @@
                 "sortOrder": "frequency"
               }
             }
+          },
+          {
+            "id": "cc1359444e47bac7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:查看关系图谱": false,
       "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "random-note:开始漫游笔记": false,
-      "publish:发布更改": false,
-      "audio-recorder:开始/结束录音": false
+      "audio-recorder:开始/结束录音": false,
+      "publish:发布更改": false
     }
   },
-<<<<<<< HEAD
-  "active": "f53789404e2fe5d4",
-  "lastOpenFiles": [
-    "Lab/computer network/css144/checkpoint 0 warmup.md",
-    "Obsidian个人使用指南.md",
-    "Personal tasks.md",
-    "Lab/computer network/css144/Pasted image 20231113195806.png",
-    "Lab/computer network/css144/Pasted image 20231113195449.png",
-    "computer base/computer network/transfer layer/flow control.md",
-    "computer base/computer network/transfer layer/TCP/TCP FSM.md",
-    "computer base/computer network/transfer layer/TCP/TCP flow.md",
-    "computer base/computer network/network layer/ICMP.md",
-    "computer base/computer network/attched resource/Pasted image 20231111092036.png",
-    "computer base/computer network/attched resource/Pasted image 20231111072531.png",
-    "computer base/computer network/attched resource/Pasted image 20231111081603.png",
-    "Lab/computer network/css144/Pasted image 20231017153359.png",
-    "Lab/computer network/css144/Pasted image 20231113194200.png",
-    "Lab/computer network/css144/Pasted image 20231017153521.png",
-    "programm/C++/Sequential container(顺序容器).md",
-    "computer base/algorithm/bit opreator.md",
-    "programm/C++/associative container(关联容器).md",
-    "computer base/computer network/transfer layer/TCP/TCP introduction.md",
-    "raw words()/English.md",
-    "Pasted image 20231111092030.png",
-=======
-  "active": "d57db0c8ccaa4948",
-  "lastOpenFiles": [
-    "programm/C++/associative container(关联容器).md",
-    "programm/programm tools/git/progit.pdf",
-    "programm/programm tools/git/git.pdf.md",
->>>>>>> c87a423631e0d2e2cea1c8c491d505ae8754a902
-    "computer base/algorithm/hello-algo-1.0.0b5-zh-cpp.pdf",
-    "computer base/computer network/attched resource/Pasted image 20231110154536.png",
-    "Lab/computer network/css144/checkpoint 0 warmup.md",
-    "Lab/computer network/css144/Pasted image 20231017153359.png",
-    "tips.md",
-    "computer base/operator system/memory/Enddianness大端法和小端法.md",
-    "computer base/operator system/memory",
-    "computer base/algorithm",
-<<<<<<< HEAD
-    "computer base/computer network/Error Detection.md",
-    "computer base/computer network/Thinking.md",
-    "concept.md",
-    "Untitled.canvas",
-    "computer base/computer network/transfer layer/UDP/UDP introduction.md",
-    "computer base/computer network/network layer",
-    "computer base/computer network/attched resource/Pasted image 20231110154536.png",
-    "programm/C++/data struct.md",
-    "computer base/operator system/memory/Enddianness大端法和小端法.md",
-    "tips.md",
-    "未命名.md",
-    "未命名.canvas",
-    "未命名",
-    "computer base/computer network/transfer layer/UDP",
-    "computer base/computer network/transfer layer",
-    "computer base/computer network/transfer layer/TCP",
-    "computer base/computer network/attched resource/Pasted image 20231108151552.png.md",
-    "computer base/memory/未命名.md",
-    "programm/concept define explain conference && resource/动态链接库.md",
-    "computer base/computer network/attched resource",
-    "computer base/computer network",
-    "programm/C++/Dynamic memory.md"
-=======
-    "Obsidian个人使用指南.md",
-    "computer base/computer network/transfer layer/flow control.md",
-    "computer base/computer network/transfer layer/UDP/UDP introduction.md",
-    "computer base/computer network/transfer layer/UDP",
-    "computer base/computer network/transfer layer/TCP/TCP introduction.md",
-    "computer base/computer network/network layer/ICMP.md",
-    "computer base/computer network/network layer",
-    "computer base/computer network/Thinking.md",
-    "computer base/computer network/Retransmission Strategies.md",
-    "computer base/computer network/Error Detection.md",
-    "Pasted image 20231111092036.png",
-    "Pasted image 20231111092030.png",
-    "Pasted image 20231111081603.png",
-    "Pasted image 20231111072531.png",
-    "blog/Blog personal instruction.md",
-    "computer base/computer network/transfer layer/TCP/TCP FSM.md",
-    "computer base/computer network/transfer layer/TCP/TCP flow.md",
-    "blog/frist.md",
-    "programm/concept define explain conference && resource/动态链接库.md",
-    "programm/concept define explain conference && resource",
-    "concept.md",
-    "computer base/operator system/linux/How to delete some datas by scuerity way.md",
-    "computer base/operator system/linux",
-    "computer base/operator system",
-    "computer base/computer network/transfer layer/TCP",
-    "computer base/computer network/attched resource/TCP FSM diagram2.png",
-    "computer base/computer network/attched resource/TCP FSM diagram.png",
-    "Lab/computer network/css144/Pasted image 20231017153521.png",
-    "programm/C++/Sequential container(顺序容器).md",
-    "programm/C++/data struct.md",
-    "computer base/memory/Enddianness大端法和小端法.md",
-    "programm/programm tools/git/git note.md",
-    "programm/C++/lambda.md",
-    "未命名.canvas"
->>>>>>> c87a423631e0d2e2cea1c8c491d505ae8754a902
-  ]
+  "active": "8cbacf1cb8b0b8e5",
+  "lastOpenFiles": []
 }
