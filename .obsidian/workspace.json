@@ -1,18 +1,5 @@
 {
   "main": {
-<<<<<<< HEAD
-    "id": "05ecd24c727e9cf9",
-    "type": "split",
-    "children": [
-      {
-        "id": "25960375acb3da78",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8cbacf1cb8b0b8e5",
-            "type": "leaf",
-            "state": {
-=======
     "id": "335302592e0e02e6",
     "type": "split",
     "children": [
@@ -26,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer base/computer network/packet switching.md",
+                "file": "computer base/computer network/network layer/ICMP.md",
                 "mode": "source",
                 "source": false
               }
@@ -36,7 +23,6 @@
             "id": "a9424ebb35bba02f",
             "type": "leaf",
             "state": {
->>>>>>> 0ea30f8a43f019f42a8e04d51fc6da964d5e637d
               "type": "empty",
               "state": {}
             }
@@ -47,17 +33,6 @@
     "direction": "vertical"
   },
   "left": {
-<<<<<<< HEAD
-    "id": "ec617c4848151d3b",
-    "type": "split",
-    "children": [
-      {
-        "id": "a8642eb20439ed09",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cfe55b43aaa5cbbc",
-=======
     "id": "f7f7f52fa18e0ec7",
     "type": "split",
     "children": [
@@ -67,7 +42,6 @@
         "children": [
           {
             "id": "dc1389222adbe555",
->>>>>>> 0ea30f8a43f019f42a8e04d51fc6da964d5e637d
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -77,11 +51,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "96de0308cb19a35a",
-=======
             "id": "ca40f4047c53455b",
->>>>>>> 0ea30f8a43f019f42a8e04d51fc6da964d5e637d
             "type": "leaf",
             "state": {
               "type": "search",
@@ -96,11 +66,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "e37f5808d69b75a1",
-=======
             "id": "31f130fa42e4b3bb",
->>>>>>> 0ea30f8a43f019f42a8e04d51fc6da964d5e637d
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -114,17 +80,6 @@
     "width": 300
   },
   "right": {
-<<<<<<< HEAD
-    "id": "2e6272145cc45c96",
-    "type": "split",
-    "children": [
-      {
-        "id": "b51b42268c8899fe",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "2a158de02e52946a",
-=======
     "id": "3899d7a3b251965c",
     "type": "split",
     "children": [
@@ -134,15 +89,11 @@
         "children": [
           {
             "id": "0ba0144169e8655c",
->>>>>>> 0ea30f8a43f019f42a8e04d51fc6da964d5e637d
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
-=======
-                "file": "computer base/computer network/packet switching.md",
->>>>>>> 0ea30f8a43f019f42a8e04d51fc6da964d5e637d
+                "file": "computer base/computer network/network layer/ICMP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,30 +105,19 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "741f558461c6c541",
-=======
             "id": "1eda4d1215223f68",
->>>>>>> 0ea30f8a43f019f42a8e04d51fc6da964d5e637d
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
-=======
-                "file": "computer base/computer network/packet switching.md",
->>>>>>> 0ea30f8a43f019f42a8e04d51fc6da964d5e637d
+                "file": "computer base/computer network/network layer/ICMP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-<<<<<<< HEAD
-            "id": "829e9200f217eab7",
-=======
             "id": "21c45bec43d021be",
->>>>>>> 0ea30f8a43f019f42a8e04d51fc6da964d5e637d
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -188,11 +128,7 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "7aa4b30dc53c7796",
-=======
             "id": "47a2fe8694f03b80",
->>>>>>> 0ea30f8a43f019f42a8e04d51fc6da964d5e637d
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -202,33 +138,21 @@
             }
           },
           {
-<<<<<<< HEAD
-            "id": "cc1359444e47bac7",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
-          }
-        ]
-=======
             "id": "e7d4f3ea33c91446",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer base/computer network/packet switching.md"
+                "file": "computer base/computer network/network layer/ICMP.md"
               }
             }
           }
         ],
         "currentTab": 4
->>>>>>> 0ea30f8a43f019f42a8e04d51fc6da964d5e637d
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,32 +167,39 @@
       "publish:发布更改": false
     }
   },
-<<<<<<< HEAD
-  "active": "8cbacf1cb8b0b8e5",
-  "lastOpenFiles": []
-=======
   "active": "b9f70027b7bb3722",
   "lastOpenFiles": [
-    "blog/未命名.md",
-    "computer base/computer network/packet switching.md",
-    "programm/programm tools/git/progit.pdf",
-    "programm/programm tools/git/git note.md",
-    "computer base/computer network/network layer/ICMP.md",
-    "programm/C++/Sequential container(顺序容器).md",
-    "programm/C++/data struct.md",
-    "programm/C++/associative container(关联容器).md",
-    "Obsidian个人使用指南.md",
-    "computer base/computer network/link layer",
-    "computer base/computer network/transfer layer/TCP/TCP introduction.md",
     "computer base/computer network/transfer layer/TCP/TCP flow.md",
-    "computer base/computer network/transfer layer/TCP/TCP FSM.md",
-    "computer base/computer network/transfer layer/flow control.md",
-    "computer base/computer network/attched resource/TCP FSM diagram2.png",
-    "Personal tasks.md",
-    "concept.md",
+    "computer base/computer network/transfer layer/TCP/TCP introduction.md",
     "computer base/computer network/Retransmission Strategies.md",
     "computer base/computer network/Error Detection.md",
-    "computer base/computer network/Thinking.md"
+    "computer base/computer network/transfer layer/flow control.md",
+    "computer base/computer network/transfer layer/UDP/UDP introduction.md",
+    "computer base/computer network/transfer layer/TCP/TCP FSM.md",
+    "computer base/computer network/network layer/packet switching.md",
+    "programm/C++/data struct.md",
+    "computer base/algorithm/C++/tips.md",
+    "computer base/algorithm/C++",
+    "computer base/computer network/Thinking.md",
+    "computer base/computer network/network layer/ICMP.md",
+    "programm/C++/associative container(关联容器).md",
+    "programm/C++/Dynamic memory.md",
+    "programm/programm tools/git/git.pdf.md",
+    "programm/programm tools/RSS/RSS初步了解记录.md",
+    "Obsidian个人使用指南.md",
+    "computer base/algorithm/hello-algo-1.0.0b5-zh-cpp.pdf",
+    "computer base/algorithm/bit opreator.md",
+    "programm/C++/Sequential container(顺序容器).md",
+    "programm/programm tools/make/make note.md",
+    "programm/C++/构造和析构.md",
+    "Pasted image 20231207092628.png",
+    "Personal tasks.md",
+    "concept.md",
+    "tips.md",
+    "blog/未命名.md",
+    "programm/programm tools/git/progit.pdf",
+    "programm/programm tools/git/git note.md",
+    "computer base/computer network/link layer",
+    "computer base/computer network/attched resource/TCP FSM diagram2.png"
   ]
->>>>>>> 0ea30f8a43f019f42a8e04d51fc6da964d5e637d
 }
