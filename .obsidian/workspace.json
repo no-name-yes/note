@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer base/computer network/packet switching.md",
+                "file": "computer base/computer network/transfer layer/TCP/TCP congestion control.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer base/computer network/packet switching.md",
+                "file": "computer base/computer network/transfer layer/TCP/TCP congestion control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer base/computer network/packet switching.md",
+                "file": "computer base/computer network/transfer layer/TCP/TCP congestion control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer base/computer network/packet switching.md"
+                "file": "computer base/computer network/transfer layer/TCP/TCP congestion control.md"
               }
             }
           }
@@ -160,14 +160,14 @@
       "publish:发布更改": false
     }
   },
-  "active": "7e7f686386793ff2",
+  "active": "2e50f86a9e4187f7",
   "lastOpenFiles": [
+    "computer base/computer network/packet switching.md",
     "programm/C++/data struct.md",
     "computer base/algorithm/hello-algo-1.0.0b5-zh-cpp.pdf",
     "computer base/algorithm/bit opreator.md",
     "computer base/computer network/Thinking.md",
     "computer base/computer network/Retransmission Strategies.md",
-    "computer base/computer network/packet switching.md",
     "computer base/computer network/Error Detection.md",
     "Obsidian个人使用指南.md",
     "computer base/computer network/transfer layer/TCP/TCP congestion control.md",
