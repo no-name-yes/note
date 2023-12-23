@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer base/computer network/network layer/ICMP.md",
+                "file": "Obsidian个人使用指南.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer base/computer network/network layer/ICMP.md",
+                "file": "Obsidian个人使用指南.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer base/computer network/network layer/ICMP.md",
+                "file": "Obsidian个人使用指南.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer base/computer network/network layer/ICMP.md"
+                "file": "Obsidian个人使用指南.md"
               }
             }
           }
@@ -169,19 +169,20 @@
   },
   "active": "b9f70027b7bb3722",
   "lastOpenFiles": [
+    "Pasted image 20231207092628.png",
+    "computer base/computer network/Error Detection.md",
+    "computer base/computer network/Retransmission Strategies.md",
+    "computer base/computer network/network layer/packet switching.md",
+    "computer base/computer network/network layer/ICMP.md",
     "computer base/computer network/transfer layer/TCP/TCP flow.md",
     "computer base/computer network/transfer layer/TCP/TCP introduction.md",
-    "computer base/computer network/Retransmission Strategies.md",
-    "computer base/computer network/Error Detection.md",
     "computer base/computer network/transfer layer/flow control.md",
     "computer base/computer network/transfer layer/UDP/UDP introduction.md",
     "computer base/computer network/transfer layer/TCP/TCP FSM.md",
-    "computer base/computer network/network layer/packet switching.md",
     "programm/C++/data struct.md",
     "computer base/algorithm/C++/tips.md",
     "computer base/algorithm/C++",
     "computer base/computer network/Thinking.md",
-    "computer base/computer network/network layer/ICMP.md",
     "programm/C++/associative container(关联容器).md",
     "programm/C++/Dynamic memory.md",
     "programm/programm tools/git/git.pdf.md",
@@ -192,13 +193,11 @@
     "programm/C++/Sequential container(顺序容器).md",
     "programm/programm tools/make/make note.md",
     "programm/C++/构造和析构.md",
-    "Pasted image 20231207092628.png",
     "Personal tasks.md",
     "concept.md",
     "tips.md",
     "blog/未命名.md",
     "programm/programm tools/git/progit.pdf",
-    "programm/programm tools/git/git note.md",
     "computer base/computer network/link layer",
     "computer base/computer network/attched resource/TCP FSM diagram2.png"
   ]
