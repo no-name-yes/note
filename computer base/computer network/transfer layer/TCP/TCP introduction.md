@@ -14,9 +14,6 @@ in sequence(有序)
 
 
 
-
-
-
 ### TCP header
 
 
