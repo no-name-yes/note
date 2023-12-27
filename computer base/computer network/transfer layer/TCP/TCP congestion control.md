@@ -7,6 +7,7 @@ aimd(additive-increase/multiplicative-decrease)和性增长/乘性降低
 IF packet received: W <-- W + $\frac{1}{W}$     
 IF packet is dropped: W <-- $\frac{W}{2}$               [^aimd增减]
 W:sliding windows size 
+cwnd: 拥堵窗口
 
 throughtput(吞吐量):为$\frac{W}{RTT}$
 
@@ -18,6 +19,20 @@ in single flow,RTT随着W的移动而偏移
 
 multi flow:
 大量的flow也遵守单个flow的aimd,但是此时多个流的RTT时间为一个常数(constant)在图像上表示为斜率一定(直线),而单个flow的RTT斜率为一个变量[^单个和多个流的吞吐量]
+
+
+#### congestion control(TCP Tahoe)
+
+##### congestion window:
+TWO states:
+TCP在两种状态控制网络的拥堵状况:slow starup和congestion avoidance
+slow starup(慢启动):在开始连接或者发送的包等待ack超时的情况
+congestion avoidance(拥堵避免):
+
+##### timeout estimation
+
+###### self-clocking
+
 
 
 #### thinking

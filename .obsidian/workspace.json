@@ -13,21 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer base/computer network/transfer layer/TCP/TCP congestion control.md",
+                "file": "raw words()/English.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a9424ebb35bba02f",
+            "id": "0551bcc3f1d07e53",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ffmpeg personal direction.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -93,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer base/computer network/transfer layer/TCP/TCP congestion control.md",
+                "file": "ffmpeg personal direction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer base/computer network/transfer layer/TCP/TCP congestion control.md",
+                "file": "ffmpeg personal direction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer base/computer network/transfer layer/TCP/TCP congestion control.md"
+                "file": "ffmpeg personal direction.md"
               }
             }
           }
@@ -167,10 +172,17 @@
       "publish:发布更改": false
     }
   },
-  "active": "dc1389222adbe555",
+  "active": "0551bcc3f1d07e53",
   "lastOpenFiles": [
-    "computer base/computer network/Thinking.md",
+    "concept.md",
+    "computer base/computer network/Error Detection.md",
+    "Personal tasks.md",
+    "computer base/computer network/transfer layer/TCP/TCP congestion control.md",
+    "ffmpeg personal direction.md",
+    "raw words()/English.md",
     "computer base/computer network/transfer layer/TCP/TCP flow.md",
+    "computer base/computer network/transfer layer/flow control.md",
+    "computer base/computer network/Thinking.md",
     "computer base/computer network/transfer layer/TCP/TCP FSM.md",
     "computer base/computer network/transfer layer/TCP/TCP introduction.md",
     "computer base/computer network/network layer/ICMP.md",
@@ -178,14 +190,10 @@
     "programm/C++/Sequential container(顺序容器).md",
     "programm/C++/associative container(关联容器).md",
     "programm/C++/data struct.md",
-    "computer base/computer network/transfer layer/TCP/TCP congestion control.md",
-    "computer base/computer network/Error Detection.md",
     "computer base/computer network/attched resource/Pasted image 20231207092628.png",
     "computer base/computer network/attched resource/Pasted image 20231223104454.png",
-    "Personal tasks.md",
     "Obsidian个人使用指南.md",
     "computer base/computer network/Retransmission Strategies.md",
-    "computer base/computer network/transfer layer/flow control.md",
     "computer base/computer network/transfer layer/UDP/UDP introduction.md",
     "computer base/algorithm/C++/tips.md",
     "computer base/algorithm/C++",
@@ -196,8 +204,6 @@
     "computer base/algorithm/bit opreator.md",
     "computer base/programm tools/make/make note.md",
     "programm/C++/构造和析构.md",
-    "concept.md",
-    "tips.md",
     "computer base/programm tools/git/progit.pdf",
     "computer base/computer network/link layer",
     "computer base/computer network/attched resource/TCP FSM diagram2.png"
