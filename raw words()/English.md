@@ -2,3 +2,5 @@
  - [ ] payload                               有效负载
  - [ ] teardown                             拆除
  - [ ] valid                                     有效的
+ - [ ] subtitle                                 字幕
+ - [ ] latency                                 延迟
