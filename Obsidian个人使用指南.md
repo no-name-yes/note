@@ -35,7 +35,7 @@
 	如 ![test|100](http://www.npcpoint.com/medias/customavatar.png)
 
 #### - 连接
-	可以直接加入链接 或者使用()+[] ()里说明[]里为链接
+	可以直接加入链接 或者使用()+[] ()里说明[]里为链接    //edited:[]里面为说明,()里面为链接
 		如： http://obsidian.md - obsidian文档
 		        [Obsidian文档](http://obsidian.md)
 	1. 外部链接
