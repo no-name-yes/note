@@ -13,13 +13,39 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computer base/computer network/transfer layer/TCP/TCP congestion control.md",
+                "file": "raw words()/English.md",
                 "mode": "source",
                 "source": false
               }
             }
+<<<<<<< HEAD
+=======
+          },
+          {
+            "id": "8fa856370ade7e5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lab/computer network/css144/checkpoint 0 warmup.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "585d2d2961a4075b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Lab/computer network/css144/cs144-sp23/lecture-notes/assignment-notes/check0.pdf"
+              }
+            }
+>>>>>>> 060a06c27cca549a77a9f4b43509cf7e31980372
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "computer base/computer network/transfer layer/TCP/TCP congestion control.md",
+                "file": "Lab/computer network/css144/cs144-sp23/lecture-notes/assignment-notes/check0.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "computer base/computer network/transfer layer/TCP/TCP congestion control.md",
+                "file": "Lab/computer network/css144/cs144-sp23/lecture-notes/assignment-notes/check0.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +151,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           },
@@ -135,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "computer base/computer network/transfer layer/TCP/TCP congestion control.md"
+                "file": "Lab/computer network/css144/cs144-sp23/lecture-notes/assignment-notes/check0.pdf"
               }
             }
           }
@@ -160,6 +188,7 @@
       "publish:发布更改": false
     }
   },
+<<<<<<< HEAD
   "active": "7e7f686386793ff2",
   "lastOpenFiles": [
     "computer base/programm tools/make/make.html",
@@ -190,5 +219,50 @@
     "Obsidian个人使用指南.md",
     "computer base/computer network/transfer layer/TCP/TCP introduction.md",
     "computer base/computer network/network layer/ICMP.md"
+=======
+  "active": "585d2d2961a4075b",
+  "lastOpenFiles": [
+    "Lab/computer network/css144/checkpoint 0 warmup.md",
+    "Lab/computer network/css144/Pasted image 20231113194200.png",
+    "Lab/computer network/css144/cs144-sp23/lab0.md",
+    "computer base/computer network/transfer layer/TCP/TCP flow.md",
+    "Lab/computer network/css144/cs144-sp23/lecture-notes/assignment-notes/check0.pdf",
+    "Lab/computer network/css144/cs144-sp23/lecture-notes/Lecture Notes - Week 1 Day 2.pdf",
+    "computer base/computer network/application layer/HTTP.md",
+    "Lab/computer network/css144/cs144-sp23/minnow",
+    "Lab/computer network/css144/cs144-sp23/lectures/week-9-Winstein-Bad-Attitude-Guide-8April2016.pdf",
+    "Lab/computer network/css144/cs144-sp23/lectures/week-6-Link Layer Lecture.pdf",
+    "Lab/computer network/css144/cs144-sp23/lectures/week-5-routing-lecture-3.pdf",
+    "Lab/computer network/css144/cs144-sp23/lectures/week-5-routing-lecture-2.pdf",
+    "Lab/computer network/css144/cs144-sp23/lectures/week-5-routing-lecture-1.pdf",
+    "Lab/computer network/css144/cs144-sp23/lectures/week-4-3-How congestion control.pdf",
+    "Lab/computer network/css144/cs144-sp23/lectures/week-4-2-What congestion control.pdf",
+    "Lab/computer network/css144/cs144-sp23/README.md",
+    "computer base/computer network/application layer/DHCP.md",
+    "computer base/computer network/application layer/BitTorrent.md",
+    "computer base/computer network/application layer/NAT.md",
+    "computer base/computer network/transfer layer/TCP/TCP congestion control.md",
+    "computer base/computer network/transfer layer/flow control.md",
+    "computer base/computer network/transfer layer/TCP/TCP introduction.md",
+    "computer base/computer network/transfer layer/UDP/UDP.md",
+    "computer base/computer network/network layer/ICMP.md",
+    "computer base/computer network/application layer/DNS.md",
+    "Personal tasks.md",
+    "Untitled.canvas",
+    "raw words()/English.md",
+    "Obsidian个人使用指南.md",
+    "computer base/computer network/attched resource/Pasted image 20240103105051.png",
+    "computer base/computer network/Thinking.md",
+    "computer base/computer network/Retransmission Strategies.md",
+    "computer base/computer network/Error Detection.md",
+    "programm/C++/Sequential container(顺序容器).md",
+    "programm/C++/associative container(关联容器).md",
+    "computer base/computer network/transfer layer/TCP/TCP FSM.md",
+    "tips.md",
+    "test.md",
+    "computer base/computer network/attched resource/Pasted image 20231207092628.png",
+    "computer base/computer network/attched resource/Pasted image 20231223104454.png",
+    "computer base/computer network/attched resource/TCP FSM diagram2.png"
+>>>>>>> 060a06c27cca549a77a9f4b43509cf7e31980372
   ]
 }
